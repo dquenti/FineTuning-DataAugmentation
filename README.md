@@ -6,3 +6,4 @@ Clasificación de imágenes con el data set CIFAR10 (incluido en Keras)
 • Imágenes etiquetadas en 10 clases distintas
 
 Fine Tuning & Data Augmentation with Xception Model
+Test del Modelo con Data Augmentation > 94.120
